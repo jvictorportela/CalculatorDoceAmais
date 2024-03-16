@@ -1,0 +1,17 @@
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\bin\Debug\net8.0\DoceAmais.Calc.Production.exe
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\bin\Debug\net8.0\DoceAmais.Calc.Production.deps.json
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\bin\Debug\net8.0\DoceAmais.Calc.Production.runtimeconfig.json
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\bin\Debug\net8.0\DoceAmais.Calc.Production.dll
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\bin\Debug\net8.0\DoceAmais.Calc.Production.pdb
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.AssemblyInfo.cs
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.csproj.CopyComplete
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.dll
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\refint\DoceAmais.Calc.Production.dll
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.pdb
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\DoceAmais.Calc.Production.genruntimeconfig.cache
+C:\ProjetosPessoais\DoceAmais.Calc.Production\DoceAmais.Calc.Production\obj\Debug\net8.0\ref\DoceAmais.Calc.Production.dll

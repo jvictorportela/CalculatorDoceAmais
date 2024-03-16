@@ -1,0 +1,5 @@
+﻿NomeProducao,NomeItem,Quantidade,CustoUnitario,CustoTotalDeItem,CustoProducao
+Pedido Icatu,Leite Cond,5,  R$4.88,  R$24.40,R$810.40
+Pedido Icatu,Creme de Leite,3,  R$249.00,  R$747.00,
+Pedido Icatu,Gás,1,  R$15.00,  R$15.00,
+Pedido Icatu,Embalagens,80,  R$0.30,  R$24.00,
